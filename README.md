@@ -1,2 +1,1 @@
-# To-Cat-Store
-toko online menjual kebutuhan kucing
+# E-commerce that sell cat foods
